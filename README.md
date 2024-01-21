@@ -1,4 +1,4 @@
-# Fastest Godping Server
+# Fastest Server Finder
 
 This useful script can tell you which is the best server to connect!\
 Usually, most of the time, some servers are down or have high ping due to number of connected clients, but the problem is that you cannot know the status of servers until you are connected...
